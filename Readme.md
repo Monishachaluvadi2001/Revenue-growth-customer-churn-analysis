@@ -205,7 +205,7 @@ Data realism was prioritized over cosmetic fixes.
 * Peak revenue months are not sustained
 * Average monthly revenue is more reliable than MoM % alone
 
-![Revenue Overview](Revenue%20Growth%20Dashboards/Revenue_overview.png)
+![Revenue Overview](Revenue%20Growth%20Dashboards/Revenue%20over%20view.png)
 
 
 
@@ -227,6 +227,8 @@ Data realism was prioritized over cosmetic fixes.
 * Business performance is highly dependent on one segment
 
 
+![Segment Performance](Revenue%20Growth%20Dashboards/Segment%20Performance.png)
+
 
 ###### Dashboard 3: Churn Impact Analysis (Minimal)
 
@@ -243,6 +245,8 @@ Data realism was prioritized over cosmetic fixes.
 * Revenue stability is repeatedly weakened by churn
 * Growth without retention is not sustainable
 
+
+![Churn Impact](Revenue%20Growth%20Dashboards/Churn%20Impact.png)
 
 
 **Design choice:**
@@ -314,5 +318,6 @@ This project was built to reflect real analyst work, including:
 
 
 The focus was on **thinking like a business analyst, not just building charts.**
+
 
 
